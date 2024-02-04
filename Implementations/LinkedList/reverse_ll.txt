@@ -1,0 +1,21 @@
+ public static Node reverseLinkedList(Node head)
+    {
+        //  Node p =head;
+        //  Node q = null;
+        //  node r = null;
+
+        //  while(p!=null){
+        //      q = p.next;
+        //      p.next = r;
+        //      q.next = p;
+            
+        //     q= q.next;
+        //     p=q;
+        //     q=r;
+
+
+
+        //  }
+        //  return head
+
+}

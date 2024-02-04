@@ -1,0 +1,1 @@
+This Repository contains the implementation of the all data structure from skretch and also contains the code of some popular algorithms.
